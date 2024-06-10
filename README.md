@@ -18,6 +18,7 @@ requirements.txt
 <img width="220" height="200" src=https://github.com/lobsterglep/AI_project/assets/156586679/e2c93355-251d-46cc-9868-41e2332ec1d1>
 
 ### Testing Environment
+<img width="50%" height="50%" src=https://github.com/lobsterglep/AI_project/assets/156586679/e5a2818c-4252-4d2d-b6fb-f3a892ba6e00>
 
 ### Process
 The dummy is dropped in the air and assess its injury by the calculation of ground impact speed of each body part.
