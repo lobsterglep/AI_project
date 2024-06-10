@@ -22,6 +22,8 @@ requirements.txt
 ### Process
 The dummy is dropped in the air and assess its injury by the calculation of ground impact speed of each body part.
 
+<img width="22.5%" height="22.5%" src=https://github.com/lobsterglep/AI_project/assets/156586679/f5f28b3e-a7d7-4cb2-bf2e-09010941b6ec>
+
 # Usage
 ### • Install ML-Agents release 20
 You can follow the installation guidance from [here](https://github.com/Unity-Technologies/ml-agents/blob/release_20_post/docs/Installation.md)
