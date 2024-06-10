@@ -3,12 +3,14 @@
 ## Introduction
 Fall Guys is a 3D simulation of how an individual survives the falling!
 
-## Environment
+## Prerequisite
 Python version 3.8
 
 ML-Agents release 20
 
 Unity Editor version 2022.3.21f1
+
+requirements.txt
 
 ## Overview
 ### Dummy
