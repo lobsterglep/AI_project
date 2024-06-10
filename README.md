@@ -20,7 +20,7 @@ requirements.txt
 ### Testing Environment
 
 ### Process
-The dummy is dropped in the air and assess its injury by the calculation of ground impact speed.
+The dummy is dropped in the air and assess its injury by the calculation of ground impact speed of each body part.
 
 # Usage
 ### • Install ML-Agents release 20
@@ -32,7 +32,7 @@ ML-Agents package should be installed in Unity Editor as well
 ### • Open our project file by Unity Editor
 Have fun!
 
-# Our experiment result 
+# Our experiment results 
 ### Under the scenario "trunk heavy" (Dummy protect its trunk)
 <img width="25%" height="25%" src=https://github.com/lobsterglep/AI_project/assets/156586679/eb4a4f44-cbce-43c7-a3ce-c391a8a1af99>
 <img width="26.5%" height="26.5%" src=https://github.com/lobsterglep/AI_project/assets/156586679/639c4394-b5ae-4b98-89c9-33a7d87a1421>
